@@ -30,3 +30,14 @@
 ### 📫 Contact Me
 - Email: valetisaichand@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/valeti-saichand-39b251273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd0aniLZ0RLiJPsEMNogHIA%3D%3D
+
+---
+
+### 📊 GitHub Stats
+![Saichand's GitHub stats](https://github-readme-stats.vercel.app/api?username=valetisaichand&show_icons=true&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=valetisaichand&theme=dark)
+
